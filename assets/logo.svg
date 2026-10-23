@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- tile -->
+  <rect x="8" y="8" width="112" height="112" rx="26" fill="#2B2440"/>
+
+  <!-- cat head peeking over the box -->
+  <path d="M34 40 L38 14 L56 30 Z" fill="#F4F1EA"/>
+  <path d="M94 40 L90 14 L72 30 Z" fill="#F4F1EA"/>
+  <path d="M38 36 L40 22 L50 31 Z" fill="#F2A7B5"/>
+  <path d="M90 36 L88 22 L78 31 Z" fill="#F2A7B5"/>
+  <ellipse cx="64" cy="58" rx="34" ry="30" fill="#F4F1EA"/>
+  <!-- eyes -->
+  <ellipse cx="50" cy="54" rx="6.5" ry="8" fill="#3BB273"/>
+  <ellipse cx="78" cy="54" rx="6.5" ry="8" fill="#3BB273"/>
+  <ellipse cx="50" cy="54" rx="2.2" ry="6.5" fill="#1B1726"/>
+  <ellipse cx="78" cy="54" rx="2.2" ry="6.5" fill="#1B1726"/>
+  <path d="M60 66 L68 66 L64 70 Z" fill="#F2A7B5"/>
+
+  <!-- litter box -->
+  <path d="M18 70 H110 L102 106 Q101 110 97 110 H31 Q27 110 26 106 Z" fill="#F28C28"/>
+  <rect x="14" y="66" width="100" height="10" rx="5" fill="#FFB25B"/>
+
+  <!-- diff marks -->
+  <g stroke-linecap="round" stroke-width="7">
+    <path d="M44 93 H60 M52 85 V101" stroke="#1E7F43"/>
+    <path d="M70 93 H86" stroke="#B42335"/>
+  </g>
+</svg>
